@@ -4,11 +4,11 @@
 
 - 🔭 I'm currently working on **a background engineer**
 
-- 🌱 I'm currently learning **Golang and Python ML DL **
+- 🌱 I'm currently learning **Golang and Python ML DL**
 
-- 👯 I'm looking to collaborate on ** Go backend and distributed systems projects**
+- 👯 I'm looking to collaborate on **Go backend and distributed systems projects**
 
-- 🤝 I'm looking for help with  ** machine learning, deep learning, and AI research**
+- 🤝 I'm looking for help with  **machine learning, deep learning, and AI research**
 
 - 💬 Ask me about **Golang
   Backgroun study
