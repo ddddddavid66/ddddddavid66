@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **3205460544@qq.com**
 
-- ⚡ Fun fact ** My code works perfectly until someone watches me demo it.**
+- ⚡ Fun fact **My code works perfectly until someone watches me demo it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
